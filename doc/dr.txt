@@ -1,0 +1,27 @@
+ex05
+
+17/20
+
+README :
+nom du cours?
+votre nom?
+
+(-1) 1111/gitignore --> .gitignore
+
+lib/ex05.dart:
+(-1) bibliothèque (library) ne doit pas être vide
+
+voir https://www.dartlang.org/articles/style-guide/
+TP.dart --> tp.dart
+Question1() --> question1()
+
+Question1()
+(-1) utiliser les paramètres de fonction
+
+
+
+
+
+
+
+
